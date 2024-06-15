@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KwamenaTheDataAnalyst
 - 👀 I’m interested in everything data
 - 🌱 I’m currently learning data analytics 
-- 💞️ I’m looking to learn, be motivated, coached to become an avid data analyst and also collaborate on  analytical projects to contribute my quota in making the world a better place.
+- 💞️ I- To become a proficient data analyst capable of making impactful contributions to any organization.
 - 📫 Reach out to me on X: https://x.com/_justKwamena
 
 <!---
