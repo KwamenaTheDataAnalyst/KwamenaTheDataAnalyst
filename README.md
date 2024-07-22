@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KwamenaTheDataAnalyst
 - 👀 I’m interested in everything data
 - 🌱 I’m currently learning data analytics 
-- To become a proficient data analyst capable of making impactful contributions to any organization.
+- To become a proficient data analyst capable of making impactful contributions to an organization.
 
 
 <!---
